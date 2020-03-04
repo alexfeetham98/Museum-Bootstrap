@@ -45,3 +45,8 @@
     font-size: 32px;
     padding: 32px 64px;
 }
+
+.c-top
+{
+    top: 3rem;
+}
